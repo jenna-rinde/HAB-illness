@@ -1,0 +1,11 @@
+Type	Map_key	Map_key2	County
+human	Human and animal	Human and animal	San Bernardino
+human	Human and animal	Human and animal	Sacramento
+animal	Animal only	Animal only	Placer
+human	Human only	Human only	Tuolumne
+human	Human only	Human only	Calaveras
+animal	Animal only	Animal only	Alameda
+animal	Animal only	Animal only	Sonoma
+animal	Animal only	Animal only	San Luis Obispo
+animal	Animal only	Animal only	Madera
+animal	Animal only	Animal only	San Diego

@@ -1,0 +1,11 @@
+Type	Map_key	Map_key2	County
+human	Human and animal	Human and animal	San Bernardino
+human	Human and animal	Human and animal	Los Angeles
+human	Human and animal	Human and animal	Lake
+human	Human only	Human only	Mendocino
+human	Human only	Human only	Napa
+animal	Animal only	Animal only	Alpine
+animal	Animal only	Animal only	Kern
+animal	Animal only	Animal only	Nevada
+animal	Animal only	Animal only	Placer
+animal	Animal only	Animal only	Riverside

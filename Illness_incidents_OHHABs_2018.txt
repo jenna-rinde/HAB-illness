@@ -1,0 +1,14 @@
+Type	Map_key	Map_key2	County	num_individuals	Site_name	Category	Table	Notes
+human	Human and wildlife	Human and animal	Contra Costa	1	Sacramento Delta	Probable	Table_2	
+human	Human only	Human only	Fresno	3	Pine Flat Lake	Suspect	Table_2	
+human	Human only	Human only	Madera	1	Manzanita Lake	Probable	Table_2	
+human	Human only	Human only	Santa Clara	3	Calaveras Reservoir	Probable	Table_2	Santa Clara/ Alameda Border
+domestic_animal	Domestic animal and Wildlife	Animal only	Humboldt	2	Mad River	NA	Table_4	
+domestic_animal	Domestic animal only	Animal only	Marin	1	Peacock Lagoon	NA	Table_4	
+domestic_animal	Domestic animal and Wildlife	Animal only	Riverside	1	Lake Elsinore	NA	Table_4	
+domestic_animal	Domestic animal only	Animal only	Yolo	1	North Davis Ditch	NA	Table_4	
+wildlife	Human and wildlife	Human and animal	Contra Costa	1	Discovery Bay	NA	Table_5	
+wildlife	Domestic animal and Wildlife	Animal only	Humboldt	1	Stone Lagoon	NA	Table_5	
+wildlife	Wildlife only	Animal only	Imperial	1	Diaz Lake	NA	Table_5	
+wildlife	Domestic animal and Wildlife	Animal only	Riverside	multiple	Lake Elsinore	NA	Table_5	
+wildlife	Domestic animal and Wildlife	Animal only	Yolo	2	Port of West Sacramento / Sacramento Delta	NA	Table_5	
