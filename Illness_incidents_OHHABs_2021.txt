@@ -1,0 +1,21 @@
+Type	Map_key	Map_key2	County	Year
+human	Human only	Human only	Humboldt	2021
+human	Human only	Human only	Mariposa	2021
+human	Human only	Human only	Merced	2021
+human	Human only	Human only	Plumas	2021
+human	Human only	Human only	Sonoma	2021
+human and animal	Human and animal	Human and animal	Contra Costa	2021
+human and animal	Human and animal	Human and animal	Lake	2021
+human and animal	Human and animal	Human and animal	Madera	2021
+human and animal	Human and animal	Human and animal	San Bernardino	2021
+human and animal	Human and animal	Human and animal	San Joaquin	2021
+human and animal	Human and animal	Human and animal	Trinity	2021
+animal only	Animal only	Animal only	Alameda	2021
+animal only	Animal only	Animal only	Calaveras	2021
+animal only	Animal only	Animal only	El Dorado	2021
+animal only	Animal only	Animal only	Nevada	2021
+animal only	Animal only	Animal only	Placer	2021
+animal only	Animal only	Animal only	Riverside	2021
+animal only	Animal only	Animal only	Sacramento	2021
+animal only	Animal only	Animal only	San Francisco	2021
+animal only	Animal only	Animal only	Yolo	2021

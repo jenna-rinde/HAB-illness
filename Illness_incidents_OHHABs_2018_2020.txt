@@ -1,0 +1,26 @@
+Type	Map_key	Map_key2	County	Year
+human	Human only	Human only	Fresno	2018_2020
+human	Human only	Human only	Santa Clara	2018_2020
+human	Human only	Human only	Tuolumne	2018_2020
+human	Human only	Human only	Calaveras	2018_2020
+human	Human only	Human only	Mendocino	2018_2020
+human	Human only	Human only	Napa	2018_2020
+human and animal	Human and animal	Human and animal	Contra Costa	2018_2020
+human and animal	Human and animal	Human and animal	San Bernardino	2018_2020
+human and animal	Human and animal	Human and animal	Sacramento	2018_2020
+human and animal	Human and animal	Human and animal	Lake	2018_2020
+human and animal	Human and animal	Human and animal	Los Angeles	2018_2020
+human and animal	Human and animal	Human and animal	Madera	2018_2020
+animal only	Animal only	Animal only	Humboldt	2018_2020
+animal only	Animal only	Animal only	Inyo	2018_2020
+animal only	Animal only	Animal only	Marin	2018_2020
+animal only	Animal only	Animal only	Riverside	2018_2020
+animal only	Animal only	Animal only	Alameda	2018_2020
+animal only	Animal only	Animal only	Imperial	2018_2020
+animal only	Animal only	Animal only	Sonoma	2018_2020
+animal only	Animal only	Animal only	San Luis Obispo	2018_2020
+animal only	Animal only	Animal only	San Diego	2018_2020
+animal only	Animal only	Animal only	Alpine	2018_2020
+animal only	Animal only	Animal only	Kern	2018_2020
+animal only	Animal only	Animal only	Nevada	2018_2020
+animal only	Animal only	Animal only	Placer	2018_2020

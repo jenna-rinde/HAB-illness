@@ -1,0 +1,34 @@
+Type	Map_key	Map_key2	County	Year									
+human	Human only	Human only	Fresno	2018_2021									
+human	Human only	Human only	Mariposa	2018_2021									
+human	Human only	Human only	Mendocino	2018_2021									
+human	Human only	Human only	Merced	2018_2021									
+human	Human only	Human only	Napa	2018_2021									
+human	Human only	Human only	Plumas	2018_2021									
+human	Human only	Human only	Santa Clara	2018_2021									
+human	Human only	Human only	Tuolumne	2018_2021									
+human and animal	Human and animal	Human and animal	Calaveras	2018_2021									
+human and animal	Human and animal	Human and animal	Contra Costa	2018_2021									
+human and animal	Human and animal	Human and animal	Humboldt	2018_2021									
+human and animal	Human and animal	Human and animal	Lake	2018_2021									
+human and animal	Human and animal	Human and animal	Los Angeles	2018_2021									
+human and animal	Human and animal	Human and animal	Madera	2018_2021									
+human and animal	Human and animal	Human and animal	Sacramento	2018_2021									
+human and animal	Human and animal	Human and animal	San Bernardino	2018_2021									
+human and animal	Human and animal	Human and animal	San Joaquin	2018_2021									
+human and animal	Human and animal	Human and animal	Sonoma	2018_2021									
+human and animal	Human and animal	Human and animal	Trinity	2018_2021									
+animal only	Animal only	Animal only	Alameda	2018_2021									
+animal only	Animal only	Animal only	Alpine	2018_2021									
+animal only	Animal only	Animal only	El Dorado	2018_2021									
+animal only	Animal only	Animal only	Imperial	2018_2021									
+animal only	Animal only	Animal only	Inyo	2018_2021									
+animal only	Animal only	Animal only	Kern	2018_2021									
+animal only	Animal only	Animal only	Marin	2018_2021									
+animal only	Animal only	Animal only	Nevada	2018_2021									
+animal only	Animal only	Animal only	Placer	2018_2021									
+animal only	Animal only	Animal only	Riverside	2018_2021									
+animal only	Animal only	Animal only	San Diego	2018_2021									
+animal only	Animal only	Animal only	San Francisco	2018_2021									
+animal only	Animal only	Animal only	San Luis Obispo	2018_2021									
+animal only	Animal only	Animal only	Yolo	2018_2021									
